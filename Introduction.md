@@ -1,9 +1,9 @@
 **REINFORCEMENT LEARNING**
 
 <div align = "center">
-What is the point of intelligence? - To make decisions _
+What is the point of intelligence? - To make decisions !
 
-In real-world scenarios, these decisions are often tied to actions that influence the world around it, and that is the point of Data Science _
+In real-world scenarios, these decisions are often tied to actions that influence the world around it, and that is the point of Data Science :)
 
 Data Science is the discipline of making data useful - Cassie Kozyrkov
 </div>
