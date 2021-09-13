@@ -1,4 +1,4 @@
 ## Reinforcement-Learning
 
-1. [Introduction](www.google.com) </br>
-2. [Markov Decision Process](www.abbcs.com)
+1. [Introduction](https://github.com/PrasanthiDesiraju/Reinforcement-Learning/blob/main/Introduction.md) </br>
+2. [Markov Decision Process](https://github.com/PrasanthiDesiraju/Reinforcement-Learning/blob/main/MarkovDecisionProcess.md)
