@@ -1,10 +1,12 @@
 **REINFORCEMENT LEARNING**
 
-_What is the point of intelligence? - To make decisions _
+<div align = "center">
+What is the point of intelligence? - To make decisions _
 
-_In real-world scenarios, these decisions are often tied to actions that influence the world around it, and that is the point of Data Science _
+In real-world scenarios, these decisions are often tied to actions that influence the world around it, and that is the point of Data Science _
 
-_Data Science is the discipline of making data useful - Cassie Kozyrkov_
+Data Science is the discipline of making data useful - Cassie Kozyrkov
+</div>
 
 How to impart human intelligence to machines even in cases of uncertainty? This is what reinforcement learning ( RL ) is about, and it the art of learning to make good decisions in an uncertain situation.
 
